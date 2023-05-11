@@ -1,5 +1,7 @@
 .env
 target/
-Cargo.lock
 history.txt
 .vscode/
+result
+.direnv/
+.devenv/
